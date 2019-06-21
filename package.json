@@ -1,0 +1,22 @@
+{
+  "name": "random-bot",
+  "version": "1.0.0",
+  "description": "A Discord Bot of Randomness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamerbrosyt/Random-Bot.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gamerbrosyt/Random-Bot/issues"
+  },
+  "homepage": "https://github.com/gamerbrosyt/Random-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
