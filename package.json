@@ -2,7 +2,7 @@
   "name": "random-bot",
   "version": "1.0.0",
   "description": "A Discord Bot of Randomness",
-  "main": "index.js",
+  "main": "v1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
